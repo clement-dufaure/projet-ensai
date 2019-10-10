@@ -1,5 +1,5 @@
 <!-- .slide: class="slide" -->
-## Projet de Statistique exploratoire
+## Projet de statistique exploratoire
 
 Clément Dufaure
 
