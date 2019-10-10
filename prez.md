@@ -144,6 +144,7 @@ La note de synthèse s'adresse au grand public
 
 - Il sera parfois plus simple de travailler sur une variable recalculée, avec des regroupements de modalité, des transformations en classes, ou sur des variables agrégées, etc
 - Il faut TOUJOURS préciser ce qui a été fait. Même si le code sera fourni, la simple lecture du rapport DOIT suffire à comprendre tout ce qui a été fait depuis les données brutes jusqu'à votre analyse
+- Il faut TOUJOURS justifier le pourquoi de ce recalcul
 
 
 
@@ -189,7 +190,33 @@ La note de synthèse s'adresse au grand public
 
 <!-- .slide: class="slide" -->
 ## Remarques diverses
-- Mettre le titre du sujet sur votre rapport
+- Mettre le titre du sujet sur tous les livrables (et numero de groupe et noms)
+- La rédaction n'est pas le premier critère de notation mais un minimum est attendu (orthographe, titre explicite de préférence informatif par exemple)
+- Relisez vous
+> Le clustering est une méthode de classification, qui consiste à construire ou constituer des classes
+
+
+
+
+
+
+<!-- .slide: class="slide" -->
+## Remarques diverses
+- Détecter des sur/sous représentativités NE VEUT PAS DIRE effets de structure
+- Attention à l'utilisation de mots réservés à l'interprétation statistique (sur/sous représenté à utiliser avec leur sens exact dans un rapport statistique)
+
+
+
+
+
+
+<!-- .slide: class="slide" -->
+## Remarques diverses
+- Un élément non lisible est inutile (cette remarque est valable pour les annexes !)
+- Lorsque des interprétation font appels à des choix arbitraire (choix de seuil, ...) précisez les explicitement ou restez en à des comparaisons
+- Souvent utiliser des effectifs n'est pas une bonne idée, il vaut mieux des fréquences
+
+
 
 
 
