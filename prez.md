@@ -73,6 +73,7 @@ Clément Dufaure
    - Ne pas oublier les indicateurs de base (moyenne, variance, médiane, mode, etc.) sur vos variables d'intêret
    - Choix d'un tableau ou d'un graphique (avec son titre, champ, source, note de lecture,... )
    - Préciser ce qui est à remarquer dans le résultats staistique en faisant attention à ne pas surinterpréter
+   - On ne vous reprochera pas de ne pas avoir de réultats sensationnels s'il n'y en a pas à trouver, on vous reprochera des résultats issus de surinterprétation
 
 
 
@@ -144,6 +145,7 @@ La note de synthèse s'adresse au grand public
 
 - Il sera parfois plus simple de travailler sur une variable recalculée, avec des regroupements de modalité, des transformations en classes, ou sur des variables agrégées, etc
 - Il faut TOUJOURS préciser ce qui a été fait. Même si le code sera fourni, la simple lecture du rapport DOIT suffire à comprendre tout ce qui a été fait depuis les données brutes jusqu'à votre analyse
+- Attention à être cohérent dans le passage d'une variable quanti en classes
 - Il faut TOUJOURS justifier le pourquoi de ce recalcul
 
 
