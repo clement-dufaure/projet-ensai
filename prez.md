@@ -176,7 +176,7 @@ La note de synthèse s'adresse au grand public
 ## La pondération
 
 - Le rôle de la pondération sera vu en 2A (poids de sondage), il faut juste savoir qu'elle permet d'avoir des résultats au plus proche de la réalité
-- Il y a plusieurs colonnes de pondération : 
+- Il y a plusieurs colonnes de pondération : il faut utiliser W_FSTUWT (FINAL TRIMMED NONRESPONSE ADJUSTED STUDENT WEIGHT)
 
 
 
