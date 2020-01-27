@@ -225,5 +225,6 @@ La note de synthèse s'adresse au grand public
 
 
 <!-- .slide: class="slide" -->
-## Dernière remarque
-Ce diapo est un mauvais exemple de diapo
+## Second semestre
+- Idée générale : remplacer la partie bivariée un peu lourde par du multivarié plus synthétique
+- Utiliser une méthode de classification dans le même esprit (le cours arrive bientôt)
