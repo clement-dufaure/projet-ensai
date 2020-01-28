@@ -226,5 +226,34 @@ La note de synthèse s'adresse au grand public
 
 <!-- .slide: class="slide" -->
 ## Second semestre
+- Maintien de la mise en problématique, données, démarche, choix de variables, etc
+- Les stats univariées restent nécessaires pour du cadrage (notemment recherche de modalité rares)
 - Idée générale : remplacer la partie bivariée un peu lourde par du multivarié plus synthétique
 - Utiliser une méthode de classification dans le même esprit (le cours arrive bientôt)
+
+
+
+
+
+
+
+<!-- .slide: class="slide" -->
+## Second semestre
+Analyse factorielle 
+- Pensez au déroulé de la méthode : choix de la méthode, paramétrage, actives/supplémentaires
+- Représentations graphiques en analse factorielle : dessin de l'axe et de se qui s'oppose suffit
+- Les représentations des plans factoriels s'adaptent mal à un résultat d'étude généralement (illisibles et parfois trompeurs)
+
+
+
+
+
+
+<!-- .slide: class="slide" -->
+## Second semestre
+Classification
+- Choix de la méthode, paramétrage,... Rester cohérent avec les choix de l'analyse factoriel ou justifier
+- Si CAH, utiliser les résultats de l'analyse factorielle
+- Ce qui est surtout attendu : analyse de la partition retenue
+- La classification crée une nouvelle variable qualitative (appartenance à la classe C)
+- Les résultats se basent essentiellement sur des statistiques bivariée (tableaux et graphiques de la statistique bivariée peuvent alors être utilisés en complément)

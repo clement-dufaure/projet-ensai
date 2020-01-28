@@ -9,9 +9,10 @@
 ## Ne pas oublier les variables synthétiques
 En bivarié :
 - Corrélation entre 2 quanti 
-- Rapport de corrélation entre quanti/quali
-- Chi2 ou V de cramer pour quali/quali
+- Rapport de corrélation (η²) entre quanti/quali
+- χ2 ou V de cramer pour quali/quali
 À surtout utiliser à titre de comparaison entre plusieurs croisements de variables
+- Coefficient de détermination (R²) pour une régression
 
 
 
@@ -21,6 +22,7 @@ En bivarié :
 <!-- .slide: class="slide" -->
 ## Tableau de corrélation
 - Se concentrer sur profil ligne ou colonne
+- Mettre impérativement la marge associée (absence toléré si c'est des quantiles)
 - Essayer de conserver le "même sens" si plusieurs croisement avec la même variable
 - Se focaliser sur sur/sous représentation ou comparaison entre profils
 
@@ -79,8 +81,48 @@ En bivarié :
 - Bibliographie : tout élément doit être cité, en latex utilisez les références
 - Toute annexe doit être citée. Une annexe illisible ne sert à rien (par exemple attention aux représentations graphiques des analyses factorielles).
 - Le code doit quand même être un minimum lisible (en latex utiliser un environnement `verbatim`)
+- Tableaux / graphiques : éviter les sorties brutes des logiciels (moche). Ne batailler pas des heures avec les paramétrages de la PROC TABULATE ou assimilé. Prenez des résultats butes et faites votre propre tableau directement dans latex/word/... ou faites vos graphiques dans excel/libreoffice/... 
 
 
+
+
+
+
+<!-- .slide: class="slide" -->
+## Forme
+- Éviter tout codage de variable dans le corps du rapport
+- Annoncez les méthodes utilisées !
+
+
+
+
+
+
+<!-- .slide: class="slide" -->
+## Forme
+- ATTENTION aux termes corrélation et sous/sur représentés
+- Sur/sous représentés : parfois utilisé pour "modalité rare"
+
+
+
+
+
+<!-- .slide: class="slide" -->
+## Forme : Notations usuelles
+- R² : coefficient de détermination d'une régression
+- η² : rapport de corrélation (quali/quanti)
+
+
+
+
+
+<!-- .slide: class="slide" -->
+## Forme
+Pour un graphique/tableau : 
+- Source
+- Champ
+- Note de lecture si nécessaire
+**Doit se démarquer du corps de texte**
 
 
 
