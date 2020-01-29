@@ -20,7 +20,7 @@ En bivarié :
 
 
 <!-- .slide: class="slide" -->
-## Tableau de corrélation
+## Tableau de contingence
 - Se concentrer sur profil ligne ou colonne
 - Mettre impérativement la marge associée (absence toléré si c'est des quantiles)
 - Essayer de conserver le "même sens" si plusieurs croisement avec la même variable
