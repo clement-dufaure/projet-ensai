@@ -2,7 +2,7 @@
 ## Projet de statistique exploratoire
 
 Clément Dufaure
-
+- clement-dufaure.github.io
 
 
 
