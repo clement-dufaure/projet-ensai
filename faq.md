@@ -26,18 +26,29 @@
 
 
 
+
 <!-- .slide: class="slide" -->
 ## Les données manquantes ?
-
 - Dans tous les cas une première analyse sans aucun traitement : on peut à ce moment détecter des comportements de non réponse (par exemple les non réponds ont l'air d'être associé à un revenu élevé)
+
+
+
+
+
+
+
+
+<!-- .slide: class="slide" -->
+## Les données manquantes ?
 - Lorsque la non réponse est une modalité rare (*et seulement si*), elle va perturber l'analyse, il faut alors regrouper la non réponse avec les autres modalités :
    - en utilisant la première analyse et l'affecter "au plus proche voisin"
    - en utilisant la ventilation aléatoire (level.ventil de FactomineR) : le comportement est parfois surprenant, on peut le faire à la main de façon plus sûre et le fixer pour les analyses suivantes.
    - en utilisant les fonctions d'imputation de FactomineR : MissMDA
    - (remarque : il existe une méthode, COREM, permettant de mettre en supplémentaire des modalités. Le TDC est alors à marge non constante)
-
+   
 - Attention, on ne peut pas mettre en supplémentaire les individus avec de la non réponse ! (zero frequencies)
 - On peut aussi éliminer toute observation avec au moins une donnée manquante, mais c'est un peu dommage...
+
 
 
 
@@ -74,12 +85,12 @@
 
 <!-- .slide: class="slide" -->
 ## Rappel démarche d'une classification
-1) Statistiques descriptives (nbr obs, type de données, nbr variables...)
-2) Choix des éléments actifs (obs et vbles)
-3) Choix de la métrique et des critères d'agrégation (si CAH)
-4) Choix du nombre de groupes et de la méthode de clustering sélectionnée (si plr méthodes utilisées)
-5) Interprétation des classes pour la méthode sélectionnée à partir des paramètres (centres des classes...)
-6) Si les données sont continues, visualisation par AFD. Si les données sont quali, ACM sur les données actives et on indique l'appartenance aux classes des observations par une couleur ou symbole.
+- Statistiques descriptives (nbr obs, type de données, nbr variables...)
+- Choix des éléments actifs (obs et vbles)
+- Choix de la métrique et des critères d'agrégation (si CAH)
+- Choix du nombre de groupes et de la méthode de clustering sélectionnée (si plr méthodes utilisées)
+- Interprétation des classes pour la méthode sélectionnée à partir des paramètres (centres des classes...)
+- Si les données sont continues, visualisation par AFD. Si les données sont quali, ACM sur les données actives et on indique l'appartenance aux classes des observations par une couleur ou symbole.
 
 
 
