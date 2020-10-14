@@ -11,7 +11,7 @@ formation.dufau.re/projet-ensai/
 <!-- .slide: class="slide" -->
 ## Rappels fonctionnement
 
-- Une base commune (PISA) : France 2015
+- Des données communes (Observatoire des territoires)
 - Un sujet différent par groupe
 - Une problématique à définir
 
@@ -66,6 +66,30 @@ formation.dufau.re/projet-ensai/
 
 
 <!-- .slide: class="slide" -->
+## Choix des variables
+- Attention au format du site
+- Récupération "par variable"
+- Ne pas négliger le temps de construction de votre table de données
+
+
+
+
+
+
+
+<!-- .slide: class="slide" -->
+## Choix de la (des) population, du (des millésimes)
+- Quel est votre individu statistique ? Votre population ?
+- Commune ? 
+- Faire bien attention à associer les variables issues des mêmes tables (Par exemple systématiquement Commune 2020)
+
+
+
+
+
+
+
+<!-- .slide: class="slide" -->
 ## L'analyse uni/bi variée
 
 - Des statistiques univariées pour connaitre la composition de la population
@@ -81,6 +105,31 @@ formation.dufau.re/projet-ensai/
 
 
 
+
+<!-- .slide: class="slide" -->
+## L'analyse uni/bi variée : outil cartographique
+
+- Outil de cartographie intégré au site
+   - Outils de visualisation des données sous forme de carte
+   - Possibilité d'importer des variables calculées par vos soins
+   - Pertinent pour un sujet sur les territoires
+
+
+
+
+
+
+<!-- .slide: class="slide" -->
+## L'analyse uni/bi variée : outil cartographique
+   - Attention à ne pas le surutiliser : une carte proposée dans le rapport DOIT être lisible et DOIT porter une information
+   - Rappel : Ce projet est là pour vous évaluer sur les statistiques descriptives
+   - Exemple : 2 variables liées peuvent être détectées en observant que les cartes des deux variables "se ressemblent", mais il utiliser des outils plus précis pour le montrer (coefficient de correlation, tableau de contingence, ...)
+
+
+
+
+
+
 <!-- .slide: class="slide" -->
 # Questions récurrentes
 
@@ -90,17 +139,15 @@ formation.dufau.re/projet-ensai/
 
 
 <!-- .slide: class="slide" -->
-## Questions sur l'enquête PISA
+## Questions sur les indicateurs du site
 
-C'est une enquête de grande ampleur (européenne), 
+https://www.observatoire-des-territoires.gouv.fr/donnees_ouvertes
 
-*elle est bien DOCUMENTÉE !!*
 
-- Des éléments de documentation vous sont mis à disposition sur le partage élève (avec la base)
-- Des resources sur Internet (https://www.oecd.org/pisa/)
-- En particulier les questionnaires : https://www.oecd.org/pisa/data/2015database/
+- Des descriptions sur chaque indicateur
+- En particulier *la source*
 
-**Je ne suis pas un expert de l'enquête PISA, je n'aurai aucune plus-value par rapport à ces documentations !**
+**Je ne suis pas un expert de ces données, je n'aurai aucune plus-value par rapport à ces informations !**
 
 
 
@@ -125,17 +172,9 @@ Le rapport s'adresse à un statisticien et non au grand public
 
 Le rapport s'adresse à un statisticien qui NE connait PAS le domaine d'étude
 
-- Présenter la base, les variables choisies avec leur nom *en clair* (ne pas utiliser les codes des variables dans le rapport)
-- Il n'y a pas vraiment de bonnes raison pour que les codes des variables aparaissent dans le rapport
+- Présenter les données, les variables choisies avec un nom *en clair* (ne pas utiliser d'éventuels nommages)
 - Il faut détailler un minimum le sens des variables quand ce n'est pas évident
 
-
-
-
-
-<!-- .slide: class="slide" -->
-## Public
-La note de synthèse s'adresse au grand public
 
 
 
@@ -145,7 +184,7 @@ La note de synthèse s'adresse au grand public
 ## Les variables créées
 
 - Il sera parfois plus simple de travailler sur une variable recalculée, avec des regroupements de modalité, des transformations en classes, ou sur des variables agrégées, etc
-- Il faut TOUJOURS préciser ce qui a été fait. Même si le code sera fourni, la simple lecture du rapport DOIT suffire à comprendre tout ce qui a été fait depuis les données brutes jusqu'à votre analyse
+- Il faut TOUJOURS préciser ce qui a été fait. Même si le code est fourni, la simple lecture du rapport DOIT suffire à comprendre tout ce qui a été fait depuis les données brutes jusqu'à votre analyse
 - Attention à être cohérent dans le passage d'une variable quanti en classes
 - Il faut TOUJOURS justifier le pourquoi de ce recalcul
 
@@ -166,25 +205,6 @@ La note de synthèse s'adresse au grand public
 - Il faut mettre en annexe les sorties brute des logiciels qui vous ont servi mais ne peuvent figurer telles quelles dans le rapport (et uniquement ce qui a servi !)
    - Pour le premier semestre, ce ne sera pas nécessaire normalement car ce sont quasiment les sorties brutes qui seront utilisées (NE PAS mettre le tableau correspondant aux graphiques par exemple)
    - Pour le second semestre, ce sera nécessaire
-
-
-
-
-
-
-
-<!-- .slide: class="slide" -->
-## La pondération
-
-- Le rôle de la pondération sera vu en 2A (poids de sondage), il faut juste savoir qu'elle permet d'avoir des résultats au plus proche de la réalité
-- Il y a plusieurs colonnes de pondération : il faut utiliser W_FSTUWT (FINAL TRIMMED NONRESPONSE ADJUSTED STUDENT WEIGHT)
-
-
-
-
-
-<!-- .slide: class="slide" -->
-## Les données manquantes
 
 
 
