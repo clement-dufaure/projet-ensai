@@ -22,8 +22,8 @@ formation.dufau.re/projet-ensai/
 <!-- .slide: class="slide" -->
 ## Rappels fonctionnement
 
-- Au premier semestre : Statistiques uni et bi variées
-- Au second semestre : Statistiques multivariées (en complément)
+- Au premier semestre : Réponse avec statistiques uni et bi variées
+- Au second semestre : Réponse avec statistiques multivariées (en complément)
 
 
 
@@ -54,11 +54,31 @@ formation.dufau.re/projet-ensai/
 
 
 <!-- .slide: class="slide" -->
-## Choix des variables
+## Problématique
+- Définir une problématique, ce n'est pas "juste" trouver une jolie question
+- C'est toute la démarche de réflexions autour essentiellement de la bibliographie pour affiner les pistes de recherche
+- Va structurer le choix de variable, les méthodes chosies, éventuellement le plan
+- Possibilité de sous problématiques (attention à ne pas trop élargir)
 
+
+
+
+
+<!-- .slide: class="slide" -->
+## Choix des variables
 - Sélectionner dès maintenant toute variable pouvant avoir un rapport plus ou moins éloignée avec votre sujet
 - Pour le premier semestre, réeffectuer une sélection plus fine ne conservant que des variables en lien direct : les méthodes uni/bivariées ne vous permettrons que de gérer un nombre limité de variables
 - Au second semestre vous aurez vu des méthodes multivariées qui sont conçues pour gérer beaucoup de variables
+
+
+
+
+
+<!-- .slide: class="slide" -->
+## Choix des variables
+- Une connaissance du stock de variables peut aider à orienter correctement votre problématique (éviter de se focaliser sur un élément dont on a aucune mesure)
+- La définition de la problématique (et des "sous problématiques") guide le choix final des variables
+- La problématique pourra être élargie si nécessaire au second semestre
 
 
 

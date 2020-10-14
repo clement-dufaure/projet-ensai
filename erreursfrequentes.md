@@ -10,7 +10,7 @@
 En bivarié :
 - Corrélation entre 2 quanti 
 - Rapport de corrélation (η²) entre quanti/quali
-- χ2 ou V de cramer pour quali/quali
+- χ2 ou V de cramer pour quali/quali :
 À surtout utiliser à titre de comparaison entre plusieurs croisements de variables
 - Coefficient de détermination (R²) pour une régression
 
@@ -22,7 +22,7 @@ En bivarié :
 <!-- .slide: class="slide" -->
 ## Tableau de contingence
 - Se concentrer sur profil ligne ou colonne
-- Mettre impérativement la marge associée (absence toléré si c'est des quantiles)
+- Mettre impérativement la marge associée (absence tolérée si c'est des quantiles)
 - Essayer de conserver le "même sens" si plusieurs croisement avec la même variable
 - Se focaliser sur sur/sous représentation ou comparaison entre profils
 
@@ -68,7 +68,7 @@ En bivarié :
 ## Choix des graphiques
 - Camenbert : à réserver pour les fréquences de variables quali nominales
 - Diagramme en baton : pour les quali ordinales
-- Non réponse : plutôt à traiter hors graphique, ou alors être très clair (par exempel pour le cas des batons, c'est délicat de placer à une extrémité ou l'autre)
+- Donnée manquante : plutôt à traiter hors graphique, ou alors être très clair (par exemple pour le cas des batons, c'est délicat de placer à une extrémité ou l'autre)
 
 
 
@@ -130,8 +130,8 @@ Pour un graphique/tableau :
 
 <!-- .slide: class="slide" -->
 ## Individus atypiques
-- Varibles quanti : supprimer les valeurs "anormalement" élevées (mettre en supplémentaire)
-- Variables quali : regrouper les modalités rares
+- Varibles quanti : possibilité de supprimer les valeurs "anormalement" élevées (2nd semestre : mettre en supplémentaire)
+- Variables quali : regrouper les modalités rares (décomposer la variance sur une classe trop petite donne de mauvais résultats)
 
 
 
@@ -139,6 +139,6 @@ Pour un graphique/tableau :
 
 
 <!-- .slide: class="slide" -->
-## Catégoriser un quanti
+## Catégoriser une quanti
 - Dans un environnement avec que des quali (ou presque) c'est souvent un bon choix
 - Les tableaux de contingence sont souvent plus lisibles et plus exploitables
