@@ -9,7 +9,7 @@
 ## Ne pas oublier les variables synthétiques
 En bivarié :
 - Corrélation entre 2 quanti 
-- Rapport de corrélation (η²) entre quanti/quali
+- Rapport de corrélation (η²) entre quanti/quali
 - χ2 ou V de cramer pour quali/quali :
 À surtout utiliser à titre de comparaison entre plusieurs croisements de variables
 - Coefficient de détermination (R²) pour une régression
