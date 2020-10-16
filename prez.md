@@ -59,6 +59,7 @@ formation.dufau.re/projet-ensai/
 - C'est toute la démarche de réflexions autour essentiellement de la bibliographie pour affiner les pistes de recherche
 - Va structurer le choix de variable, les méthodes chosies, éventuellement le plan
 - Possibilité de sous problématiques (attention à ne pas trop élargir)
+- Attention : vous ne pourrez pas détecter de *causalité*. C'est un projet de statistique *descriptives*, on peut "juste" trouver les variables qui fonctionnent ensemble.
 
 
 
