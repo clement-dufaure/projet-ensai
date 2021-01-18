@@ -5,6 +5,32 @@
 
 
 
+
+<!-- .slide: class="slide" -->
+## Gérer des donées temporelles ?
+- Vous n'avez pas les outils pour analyser finement une série temporelle
+- Si vous voulez analyser une évolution
+   - Calcul (par commune par exemple) d'un taux d'évolution : l'évolution devient une variable "comme les autres" (moyenne, variance, croisement avec un autre variable, ... , intégration dans une analyse factorielle)
+   - Se limiter à étudier les disparités dune évolution entre deux millésimes, risque de compliquer le raisonnement en croisant plusieurs évolutions.
+
+
+
+
+
+
+
+<!-- .slide: class="slide" -->
+## Gérer des donées temporelles ?
+- Alternative en analyse factorielle
+- DISCLAIMER : risque de ne rien donner
+- possibilité d'intégrer le même jeu de variables disponible sur plusieurs millésimes. Idée : voir si des années se ressemble du point de vue de certaines variables, se distinguent sur une autre.
+
+
+
+
+
+
+
 <!-- .slide: class="slide" -->
 ## Analyse factorielle :  quelles variables acives retenir ?
 
@@ -100,10 +126,10 @@
 
 
 <!-- .slide: class="slide" -->
-## Mais pourquoi fait-on une classification ? Ca ne sert à rien les individus sont anonymes.
-- ...
-- Profils-types
-- Adapté à la vulgarisation
+<!-- ## Mais pourquoi fait-on une classification ? Ca ne sert à rien les individus sont anonymes.
+- ...-->
+
+
 
 
 
@@ -114,4 +140,6 @@
 <!-- .slide: class="slide" -->
 ## La classification
 - il ne s'agit pas juste de trouver de bonnes classes, il faut aussi (et surtout) bien analyser les classes !
-
+- (Donc aura du sens aussi sur les communes)
+- Profils-types
+- Adapté à la vulgarisation

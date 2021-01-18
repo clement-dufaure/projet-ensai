@@ -142,3 +142,19 @@ Pour un graphique/tableau :
 ## Catégoriser une quanti
 - Dans un environnement avec que des quali (ou presque) c'est souvent un bon choix
 - Les tableaux de contingence sont souvent plus lisibles et plus exploitables
+
+
+
+
+
+
+
+<!-- .slide: class="slide" -->
+## Attention : petite population
+- Seulement 13 régions : "risque" de décrire tous le tableau
+- Ce n'est pas faux, mais il ne faut pas oublier les stats de bases
+- Lire un tableau de données brutes n'est pas un travail statistique complet
+- Illutratif, voire contrôle de la méthode stat
+
+
+
