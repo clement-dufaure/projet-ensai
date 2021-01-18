@@ -269,7 +269,7 @@ Le rapport s'adresse à un statisticien qui NE connait PAS le domaine d'étude
 <!-- .slide: class="slide" -->
 ## Second semestre
 - Maintien de la mise en problématique, données, démarche, choix de variables, etc
-- Les stats univariées restent nécessaires pour du cadrage (notemment recherche de modalité rares)
+- Les stats univariées restent nécessaires pour du cadrage (notemment recherche de modalité rares), potentiellement quelques éléments de bivarié
 - Idée générale : remplacer la partie bivariée un peu lourde par du multivarié plus synthétique
 - Utiliser une méthode de classification dans le même esprit (le cours arrive bientôt)
 
@@ -298,4 +298,4 @@ Classification
 - Si CAH, utiliser les résultats de l'analyse factorielle
 - Ce qui est surtout attendu : analyse de la partition retenue
 - La classification crée une nouvelle variable qualitative (appartenance à la classe C)
-- Les résultats se basent essentiellement sur des statistiques bivariée (tableaux et graphiques de la statistique bivariée peuvent alors être utilisés en complément)
+- Les résultats se basent essentiellement sur des statistiques bivariée (tableaux et graphiques de la statistique bivariée peuvent alors être utilisés)

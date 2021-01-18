@@ -53,7 +53,7 @@
 
 
 
-<!-- .slide: class="slide" -->
+<!-- .slide: class="slide" 
 ## Les données manquantes ?
 - Dans tous les cas une première analyse sans aucun traitement : on peut à ce moment détecter des comportements de non réponse (par exemple les non réponds ont l'air d'être associé à un revenu élevé)
 
@@ -64,7 +64,7 @@
 
 
 
-<!-- .slide: class="slide" -->
+<!-- .slide: class="slide" 
 ## Les données manquantes ?
 - Lorsque la non réponse est une modalité rare (*et seulement si*), elle va perturber l'analyse, il faut alors regrouper la non réponse avec les autres modalités :
    - en utilisant la première analyse et l'affecter "au plus proche voisin"
@@ -73,7 +73,7 @@
    - (remarque : il existe une méthode, COREM, permettant de mettre en supplémentaire des modalités. Le TDC est alors à marge non constante)
    
 - Attention, on ne peut pas mettre en supplémentaire les individus avec de la non réponse ! (zero frequencies)
-- On peut aussi éliminer toute observation avec au moins une donnée manquante, mais c'est un peu dommage...
+- On peut aussi éliminer toute observation avec au moins une donnée manquante, mais c'est un peu dommage...-->
 
 
 
@@ -102,7 +102,6 @@
 ## Le eta2 dans les listings de classification
 
 - Pour l'analyse de variables *quantitatives* sur les classes, il permet de dire si la variable permet de bien décrire la partition (équivalent du chi2 pour une variable qualitative). C'est la statistique du test de fisher, elle vaut (Vinter/n-k)/(Vintra/k-1) et suit une loi de fisher (k-1,n-k) avec n le nombre d'individu, k le nombre de classes.
-- Rappel : vos variables sont essentiellement des qualitatives ordinales et je vous conseille de les laisser ainsi, vous pouvez cependant les interpréter comme des quanti.
 
 
 
@@ -114,9 +113,8 @@
 - Statistiques descriptives (nbr obs, type de données, nbr variables...)
 - Choix des éléments actifs (obs et vbles)
 - Choix de la métrique et des critères d'agrégation (si CAH)
-- Choix du nombre de groupes et de la méthode de clustering sélectionnée (si plr méthodes utilisées)
+- Choix du nombre de groupes et de la méthode de clustering sélectionnée (si plusieurs méthodes utilisées)
 - Interprétation des classes pour la méthode sélectionnée à partir des paramètres (centres des classes...)
-- Si les données sont continues, visualisation par AFD. Si les données sont quali, ACM sur les données actives et on indique l'appartenance aux classes des observations par une couleur ou symbole.
 
 
 
@@ -139,7 +137,7 @@
 
 <!-- .slide: class="slide" -->
 ## La classification
-- il ne s'agit pas juste de trouver de bonnes classes, il faut aussi (et surtout) bien analyser les classes !
+- Il ne s'agit pas juste de trouver de bonnes classes, il faut aussi (et surtout) bien analyser les classes !
 - (Donc aura du sens aussi sur les communes)
 - Profils-types
 - Adapté à la vulgarisation
